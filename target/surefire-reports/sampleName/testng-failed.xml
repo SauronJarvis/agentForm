@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [sampleName]">
+  <test name="sample test name(failed)">
+    <classes>
+      <class name="com.selenium.tests.TestDisplayPage">
+        <methods>
+          <include name="testForValidAgent"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.selenium.tests.TestDisplayPage -->
+      <class name="com.selenium.tests.TestAgentForm">
+        <methods>
+          <include name="testBlankForPasswordAndEmail"/>
+          <include name="testInvalidEmailId"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.selenium.tests.TestAgentForm -->
+    </classes>
+  </test> <!-- sample test name(failed) -->
+</suite> <!-- Failed suite [sampleName] -->
