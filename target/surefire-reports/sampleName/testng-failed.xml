@@ -3,16 +3,6 @@
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [sampleName]">
   <test name="sample test name(failed)">
     <classes>
-<<<<<<< HEAD
-=======
-      <class name="com.selenium.tests.TestDisplayPage">
-        <methods>
-          <include name="testForValidAgent"/>
-          <include name="setup"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- com.selenium.tests.TestDisplayPage -->
->>>>>>> 2627a4ea626d0f7f4c9b2f3335c2e3e605ef160f
       <class name="com.selenium.tests.TestAgentForm">
         <methods>
           <include name="testBlankForPasswordAndEmail"/>
@@ -21,6 +11,13 @@
           <include name="teardown"/>
         </methods>
       </class> <!-- com.selenium.tests.TestAgentForm -->
+      <class name="com.selenium.tests.TestDisplayPage">
+        <methods>
+          <include name="testForValidAgent"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.selenium.tests.TestDisplayPage -->
     </classes>
   </test> <!-- sample test name(failed) -->
 </suite> <!-- Failed suite [sampleName] -->

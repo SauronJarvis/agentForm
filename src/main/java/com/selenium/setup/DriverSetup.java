@@ -10,11 +10,11 @@ public class DriverSetup {
 	public WebDriver getDriver()
 	{
 	
-<<<<<<< HEAD
+
 	System.setProperty("webdriver.gecko.driver", "E:\\learn\\Selenium\\drivers\\geckodriver.exe");
-=======
-	System.setProperty("webdriver.gecko.driver", "C:\\Users\\sanarayanan\\Desktop\\Soundar\\Automation\\drivers\\gecko v 0.18\\geckodriver.exe");
->>>>>>> 2627a4ea626d0f7f4c9b2f3335c2e3e605ef160f
+
+	//System.setProperty("webdriver.gecko.driver", "C:\\Users\\sanarayanan\\Desktop\\Soundar\\Automation\\drivers\\gecko v 0.18\\geckodriver.exe");
+
 	DesiredCapabilities capabilities=DesiredCapabilities.firefox();
 	capabilities.setCapability("marionette", true);
 	
