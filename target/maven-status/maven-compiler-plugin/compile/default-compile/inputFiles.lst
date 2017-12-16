@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 E:\learn\Selenium\charterproject\Agent Form - maven\agentForm\src\main\java\com\selenium\pages\DisplayAgent.java
 E:\learn\Selenium\charterproject\Agent Form - maven\agentForm\src\main\java\com\selenium\setup\DriverSetup.java
 E:\learn\Selenium\charterproject\Agent Form - maven\agentForm\src\main\java\com\selenium\pages\AgentForm.java
 E:\learn\Selenium\charterproject\Agent Form - maven\agentForm\src\main\java\com\selenium\setup\ExcelUtils.java
+=======
+C:\Users\sanarayanan\Desktop\Agent Form - maven\Agent Form - maven\agentForm\src\main\java\com\selenium\setup\DriverSetup.java
+C:\Users\sanarayanan\Desktop\Agent Form - maven\Agent Form - maven\agentForm\src\main\java\com\selenium\setup\ExcelUtils.java
+C:\Users\sanarayanan\Desktop\Agent Form - maven\Agent Form - maven\agentForm\src\main\java\com\selenium\pages\AgentForm.java
+C:\Users\sanarayanan\Desktop\Agent Form - maven\Agent Form - maven\agentForm\src\main\java\com\selenium\pages\DisplayAgent.java
+>>>>>>> 2627a4ea626d0f7f4c9b2f3335c2e3e605ef160f

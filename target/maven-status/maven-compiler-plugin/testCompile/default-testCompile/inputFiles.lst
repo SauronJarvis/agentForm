@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 E:\learn\Selenium\charterproject\Agent Form - maven\agentForm\src\test\java\com\selenium\tests\xSetData.java
 E:\learn\Selenium\charterproject\Agent Form - maven\agentForm\src\test\java\com\selenium\tests\TestDisplayPage.java
 E:\learn\Selenium\charterproject\Agent Form - maven\agentForm\src\test\java\com\selenium\tests\TestAgentForm.java
+=======
+C:\Users\sanarayanan\Desktop\Agent Form - maven\Agent Form - maven\agentForm\src\test\java\com\selenium\tests\TestAgentForm.java
+C:\Users\sanarayanan\Desktop\Agent Form - maven\Agent Form - maven\agentForm\src\test\java\com\selenium\tests\xSetData.java
+C:\Users\sanarayanan\Desktop\Agent Form - maven\Agent Form - maven\agentForm\src\test\java\com\selenium\tests\TestDisplayPage.java
+>>>>>>> 2627a4ea626d0f7f4c9b2f3335c2e3e605ef160f
